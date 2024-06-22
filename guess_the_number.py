@@ -7,6 +7,10 @@ def welcome_message():
     print("#         Welcome to Guess the Number!       #")
     print("#                                            #")
     print("##############################################")
+    print("#                                            #")
+    print("#           Developed by Wahab Khan          #")
+    print("#                                            #")
+    print("##############################################")
     print("\033[0m")  # Reset color
 
 def play_game():
